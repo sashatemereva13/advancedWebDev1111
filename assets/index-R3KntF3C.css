@@ -1,0 +1,19 @@
+@font-face{font-family:Canobis;src:url(/assets/Canobis-BJpZKjJR.ttf) format("truetype"),url(/assets/Canobis-DB0G6uFP.otf) format("opentype");font-weight:400;font-style:normal;font-display:swap}/**
+* @license
+*
+* Font Family: Panchang
+* Designed by: Barbara Bigosinska, Hitesh Malaviya
+* URL: https://www.fontshare.com/fonts/panchang
+* © 2025 Indian Type Foundry
+*
+* Panchang Extralight 
+* Panchang Light 
+* Panchang Regular 
+* Panchang Medium 
+* Panchang Semibold 
+* Panchang Bold 
+* Panchang Extrabold 
+* Panchang Variable (Variable font)
+
+*
+*/@font-face{font-family:Panchang-Extralight;src:url(/assets/Panchang-Extralight-CHrZtaoY.woff2) format("woff2"),url(/assets/Panchang-Extralight-C6bOOSih.woff) format("woff"),url(/assets/Panchang-Extralight-BiYGCNgz.ttf) format("truetype");font-weight:200;font-display:swap;font-style:normal}@font-face{font-family:Panchang-Light;src:url(/assets/Panchang-Light-CHCXxiWf.woff2) format("woff2"),url(/assets/Panchang-Light-iV2fh5wv.woff) format("woff"),url(/assets/Panchang-Light-BkVhpc94.ttf) format("truetype");font-weight:300;font-display:swap;font-style:normal}@font-face{font-family:Panchang-Regular;src:url(/assets/Panchang-Regular-Ci2ncjVW.woff2) format("woff2"),url(/assets/Panchang-Regular-CntkOU0A.woff) format("woff"),url(/assets/Panchang-Regular-CsaztIEH.ttf) format("truetype");font-weight:400;font-display:swap;font-style:normal}@font-face{font-family:Panchang-Medium;src:url(/assets/Panchang-Medium-D13gax__.woff2) format("woff2"),url(/assets/Panchang-Medium-ijYTDIG0.woff) format("woff"),url(/assets/Panchang-Medium-CJYPbTdU.ttf) format("truetype");font-weight:500;font-display:swap;font-style:normal}@font-face{font-family:Panchang-Semibold;src:url(/assets/Panchang-Semibold-D2L6Idaz.woff2) format("woff2"),url(/assets/Panchang-Semibold-BHYbDAlk.woff) format("woff"),url(/assets/Panchang-Semibold-Bz2D8v0k.ttf) format("truetype");font-weight:600;font-display:swap;font-style:normal}@font-face{font-family:Panchang-Bold;src:url(/assets/Panchang-Bold-DtD9KpcK.woff2) format("woff2"),url(/assets/Panchang-Bold-o3G-q8pO.woff) format("woff"),url(/assets/Panchang-Bold-BHYDANoS.ttf) format("truetype");font-weight:700;font-display:swap;font-style:normal}@font-face{font-family:Panchang-Extrabold;src:url(/assets/Panchang-Extrabold-TdFcma__.woff2) format("woff2"),url(/assets/Panchang-Extrabold-CgPggj8Y.woff) format("woff"),url(/assets/Panchang-Extrabold-CDjZ_ZXC.ttf) format("truetype");font-weight:800;font-display:swap;font-style:normal}@font-face{font-family:Panchang-Variable;src:url(/assets/Panchang-Variable-CJFNRnw_.woff2) format("woff2"),url(/assets/Panchang-Variable-C5ZPvIX-.woff) format("woff"),url(/assets/Panchang-Variable-uQXvbgmZ.ttf) format("truetype");font-weight:200 800;font-display:swap;font-style:normal}*{font-family:Panchang-Medium,sans-serif}html,body,:root{margin:0;display:flex;flex-direction:row;align-items:center;justify-content:center;width:100vw;height:100vh}canvas{width:100vw;height:100vh}h1{font-family:Canobis}
